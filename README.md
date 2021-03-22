@@ -1,3 +1,5 @@
+![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg)
+
 # Setup environement
 
 Follow all these steps :
@@ -17,6 +19,8 @@ pip install -r requirements.txt
 # Run streamlit server with main file
 streamlit router.py
 ```
+
+When it's done you can check `http://localhost:8501` in your browser.
 
 ## Framework info
 
